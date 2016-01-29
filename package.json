@@ -4,7 +4,8 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "start":"bash runThis.sh"
   },
   "author": "abhishek gupta",
   "license": "ISC",

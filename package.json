@@ -7,5 +7,7 @@
     "test": "mocha"
   },
   "author": "abhishek gupta",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+  }
 }
